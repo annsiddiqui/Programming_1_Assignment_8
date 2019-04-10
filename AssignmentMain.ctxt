@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=AssignmentMain
+comment0.text=\n\ This\ file\ holds\ the\ main\ code\ that\ simplifies\ running\ the\ challenge\ code.\n\n\ You\ shouldn't\ need\ to\ edit\ this\ file\ to\ complete\ the\ assignment.\n\ \ @author\ Qurrat-al-Ain\ Siddiqui\n\n\ @author\ Jason\ Heard\n\ @author\ Jordan\ Pratt\n\ @author\ Ruben\ Yumol\n
+comment1.params=
+comment1.target=AssignmentMain()
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3
